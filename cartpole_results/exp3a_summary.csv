@@ -1,0 +1,4 @@
+Experiment,Algorithm,Learning Rate,Best Reward,Final Reward,Solved,Steps to Solve,Train Time (min)
+exp3 qtable lr001,Q-Table,0.001,61.2,41.7,No,—,0.17
+exp3 qtable lr010,Q-Table,0.01,274.7,120.4,No,—,0.4
+exp3 qtable lr100,Q-Table,0.1,184.5,148.1,No,—,0.69

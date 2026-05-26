@@ -1,0 +1,4 @@
+Experiment,Algorithm,Bins,Best Reward,Final Reward,Solved,Steps to Solve,Train Time (min)
+exp2 bins 06,Q-Table,6,202.5,174.1,No,—,0.42
+exp2 bins 10,Q-Table,10,107.5,78.3,No,—,0.26
+exp2 bins 20,Q-Table,20,179.6,143.8,No,—,0.38

@@ -1,0 +1,4 @@
+Experiment,Algorithm,Learning Rate,Best Reward,Final Reward,Solved,Steps to Solve,Train Time (min)
+exp3 dqn lr0001,DQN,0.0001,83.9,9.3,No,—,11.47
+exp3 dqn lr001,DQN,0.001,500.0,323.6,Yes,70232,10.72
+exp3 dqn lr01,DQN,0.01,500.0,65.3,Yes,37305,10.2
