@@ -1,0 +1,3 @@
+Experiment,Algorithm,Episodes / Steps,Best Reward,Final Reward,Steps to Solve,Train Time (min)
+exp1 reinforce,REINFORCE,800,-1208.6,-1562.1,not solved,7.4
+exp1 sac,SAC,—,-94.0,-145.9,5k,61.5
