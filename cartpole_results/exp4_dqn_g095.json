@@ -1,0 +1,44 @@
+{
+  "exp_name": "exp4_dqn_g095",
+  "algorithm": "DQN",
+  "config": {
+    "lr": 0.001,
+    "gamma": 0.95,
+    "total_steps": 100000
+  },
+  "metrics": {
+    "best_reward": 295.3,
+    "final_reward": 196.98000000000002,
+    "training_time_min": 10.39,
+    "solved": false,
+    "steps_to_solve": null
+  },
+  "history": {
+    "episodes": [
+      4062,
+      12138,
+      19801,
+      27213,
+      35307,
+      43406,
+      52032,
+      61458,
+      71633,
+      84220,
+      98814
+    ],
+    "rewards": [
+      188.7,
+      132.1,
+      133.5,
+      143.9,
+      157.9,
+      295.3,
+      161.5,
+      146.5,
+      242.5,
+      265.7,
+      168.7
+    ]
+  }
+}
