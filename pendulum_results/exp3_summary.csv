@@ -1,0 +1,4 @@
+Experiment,Algorithm,Adaptive α,Best Reward,Final Reward,Steps to Solve,Train Time (min)
+exp3 fixed alpha 012,SAC,False,-73.3,-175.3,10k,43.5
+exp3 fixed alpha 050,SAC,False,-72.8,-162.4,5k,44.4
+exp3 adaptive alpha,SAC,True,-71.3,-122.4,7k,43.3

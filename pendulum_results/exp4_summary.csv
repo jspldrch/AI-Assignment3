@@ -1,0 +1,4 @@
+Experiment,Algorithm,Batch Size,Best Reward,Final Reward,Steps to Solve,Train Time (min)
+exp4 batch 064,SAC,64,-49.1,-111.1,7k,30.7
+exp4 batch 128,SAC,128,-94.1,-167.7,5k,36.9
+exp4 batch 256,SAC,256,-71.9,-141.9,10k,50.1
