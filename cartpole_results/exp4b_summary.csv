@@ -1,0 +1,4 @@
+Experiment,Algorithm,γ,Best Reward,Final Reward,Solved,Steps to Solve,Train Time (min)
+exp4 dqn g090,DQN,0.9,164.7,113.3,No,—,9.39
+exp4 dqn g095,DQN,0.95,295.3,197.0,No,—,10.39
+exp4 dqn g099,DQN,0.99,500.0,302.3,Yes,16071,9.81

@@ -1,0 +1,4 @@
+Experiment,Algorithm,γ,Best Reward,Final Reward,Solved,Steps to Solve,Train Time (min)
+exp4 qtable g090,Q-Table,0.9,150.4,102.9,No,—,0.32
+exp4 qtable g095,Q-Table,0.95,103.2,75.2,No,—,0.17
+exp4 qtable g099,Q-Table,0.99,180.1,120.6,No,—,0.28
