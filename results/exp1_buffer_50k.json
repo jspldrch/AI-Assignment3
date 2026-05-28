@@ -1,0 +1,18 @@
+{
+  "exp_name": "exp1_buffer_50k",
+  "config": {
+    "buffer_size": 50000,
+    "target_freq": 500,
+    "eps_schedule": "linear",
+    "eps_start": 1.0,
+    "eps_final": 0.01,
+    "eps_decay": 1000000,
+    "is_double": false
+  },
+  "metrics": {
+    "best_reward": 21.0,
+    "training_time_min": 62.2,
+    "total_steps": 2000000
+  },
+  "log_path": "tb_logs/exp1_buffer_50k"
+}

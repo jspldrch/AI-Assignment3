@@ -1,0 +1,18 @@
+{
+  "exp_name": "exp3_target_100",
+  "config": {
+    "buffer_size": 100000,
+    "target_freq": 100,
+    "eps_schedule": "linear",
+    "eps_start": 1.0,
+    "eps_final": 0.01,
+    "eps_decay": 1000000,
+    "is_double": false
+  },
+  "metrics": {
+    "best_reward": 6.0,
+    "training_time_min": 70.6,
+    "total_steps": 2000000
+  },
+  "log_path": "tb_logs/exp3_target_100"
+}
