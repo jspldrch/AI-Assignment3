@@ -1,0 +1,3 @@
+Experiment,Double DQN,Best Reward,Train Time (min)
+exp2 dqn,No,-21.00,59.3
+exp2 double dqn,Yes,18.00,62.8
